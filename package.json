@@ -1,0 +1,23 @@
+{
+  "name": "stuff",
+  "version": "1.0.0",
+  "description": "learning the basics of express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewjlee/ExpressTutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthewjlee/ExpressTutorial/issues"
+  },
+  "homepage": "https://github.com/matthewjlee/ExpressTutorial#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
